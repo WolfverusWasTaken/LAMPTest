@@ -3,7 +3,7 @@
         <div class="nav-logo">GatherSpot</div>
         <ul class="nav-menu-items">
             <li class="nav-menu-item home-item">
-                <a href="#top" class="scroll-link" data-id="top">Home</a>
+                <a href="#top" class="scroll-link" data-id="top">TESTING</a>
             </li>
             <li class="nav-menu-item">About Us</li>
             <li class="nav-menu-item dropdown">
