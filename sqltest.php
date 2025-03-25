@@ -6,7 +6,7 @@
     <title>Database Connection Test</title>
 </head>
 <body>
-    <h1>Database Connection Test</h1>
+    <!-- <h1>Database Connection Test</h1> -->
 
     <?php
     // Define the config file path
