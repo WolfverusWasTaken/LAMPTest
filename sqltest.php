@@ -8,7 +8,7 @@
 <body>
     <?php
     // Include the SQL requests file
-    require_once 'SQLrequests.inc.php';
+    require_once 'inc/SQLrequests.inc.php';
 
     // Define the config file path
     $configFile = '/var/www/private/db-config.ini';
