@@ -99,27 +99,27 @@
     <div style="display: flex; justify-content: space-around; margin-top: 30px;">
 
         <!-- Registration Form -->
-        <div style="width: 45%; border: 1px solid #ccc; padding: 20px;">
+        <div style="width: 30%; border: 1px solid #ccc; padding: 20px;">
             <h2>Register</h2>
             <form method="POST" action="">
                 <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
+                <input type="text" id="name" name="name" required style="width: 90%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
                 <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required style="width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
+                <input type="email" id="email" name="email" required style="width: 90%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
                 <label for="password">Password:</label>
-                <input type="password" id="password" name="password" required style="width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
+                <input type="password" id="password" name="password" required style="width: 90%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
                 <input type="submit" name="register" value="Register" style="padding: 10px 15px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">
             </form>
         </div>
 
         <!-- Login Form -->
-        <div style="width: 45%; border: 1px solid #ccc; padding: 20px;">
+        <div style="width: 30%; border: 1px solid #ccc; padding: 20px;">
             <h2>Login</h2>
             <form method="POST" action="">
                 <label for="login-email">Email:</label>
-                <input type="email" id="login-email" name="email" required style="width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
+                <input type="email" id="login-email" name="email" required style="width: 90%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
                 <label for="login-password">Password:</label>
-                <input type="password" id="login-password" name="password" required style="width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
+                <input type="password" id="login-password" name="password" required style="width: 90%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc;"><br>
                 <input type="submit" name="login" value="Login" style="padding: 10px 15px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">
             </form>
         </div>
