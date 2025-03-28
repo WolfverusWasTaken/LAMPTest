@@ -67,7 +67,5 @@
                 <p style="text-align: center; margin-top: 20px;">Already have an account? <a href="login.php" style="color: #ff589e;">Log In</a></p>
             </div>
         </section>
-        <!-- test change -->
     </body>
 </html>
-
